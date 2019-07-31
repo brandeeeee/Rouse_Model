@@ -5,7 +5,7 @@
     "shortdesc": "A simple model for suspended sediment concentration in rivers",
     "license": "MIT",
     "difficulty": 4,
-    "projurl": "[hosted on GitHub](https://github.com/brandeeeee/Toy-Rouse-Model/)",
+    "projurl": "[hosted on GitHub](https://github.com/brandeeeee/Rouse_Model/)",
     "projreadme": ["README.md"],
     "preview": ["private", "rouse_model_pic.png"],
     "exec": ["src", "rouse_model_toy.py"],
